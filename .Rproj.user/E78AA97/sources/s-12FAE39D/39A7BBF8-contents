@@ -1,0 +1,21 @@
+# Theme metadata
+name = "mepc"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#2962ff"
+
+# Menu
+menu_primary = "#fff"
+menu_text = "#34495e"
+menu_text_active = "#004aad"
+menu_title = "#69b3a2"
+
+# Home sections
+home_section_odd = "#fff"
+home_section_even = "#fff"
+
+link = "#004aad"
+link_hover = "#004aad"

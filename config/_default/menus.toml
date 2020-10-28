@@ -1,0 +1,85 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+[[main]]
+  name = "¿Quiénes somos?"
+  url = "#portada"
+  weight = 10
+
+[[main]]
+  name = "¿Cómo colaborar?"
+  url = "#como-colaborar"
+  weight = 20
+
+[[main]]
+  name = "¿Qué estudiamos?"
+  url = "#grupos"
+  weight = 30
+  
+# [[main]]
+#  name = "Noticias"
+#  url = "#noticias"
+#  weight = 40
+
+# [[main]]
+#  name = "Videos y artículos"
+#  url = "#videos-y-articulos"
+#  weight = 50
+
+# [[main]]
+#  name = "Publications"
+#  url = "#featured"
+#  weight = 40
+
+# [[main]]
+#  name = "Courses"
+#  url = "courses/"
+#  weight = 50
+
+# [[main]]
+#  name = "¿Qué estudiamos?"
+#  url = "#people"
+#  weight = 60
+
+# [[main]]
+#  name = "Contacto"
+#  url = "#contacto"
+#  weight = 60
+  
+[[main]]
+  name = "Departamentos"
+  url = ""
+  weight = 60
+  identifier = "departamentos"
+  
+[[main]]
+  name = "Redes sociales"  # A link title for your page.
+  url = "departamentos/redes-sociales"  # The URL of your page.
+  weight = 61 # The position of your page in the menu.
+  parent = "departamentos"
+  
+[[main]]
+  name = "Revisores"  # A link title for your page.
+  url = "/departamentos/revisores"  # The URL of your page.
+  weight = 62  # The position of your page in the menu.
+  parent = "departamentos"
+  
+[[main]]
+  name = "Diseñadores"  # A link title for your page.
+  url = "/departamentos/diseñadores"  # The URL of your page.
+  weight = 63  # The position of your page in the menu.
+  parent = "departamentos"
+
+[[main]]
+  name = "Contacto"
+  url = "#contacto"
+  weight = 70
+
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# [[main]]
+#    name = "CV"
+#    url = "files/cv.pdf"
+#    weight = 70

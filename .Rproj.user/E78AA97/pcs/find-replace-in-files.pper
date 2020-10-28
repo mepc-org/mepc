@@ -1,0 +1,13 @@
+{
+    "dialog-state": {
+        "query": "menus.toml",
+        "path": "~/GitHub/mepc-website",
+        "regex": false,
+        "caseSensitive": true,
+        "filePatterns": [],
+        "excludeFilePatterns": [],
+        "resultsCount": 0,
+        "errorCount": 0,
+        "replaceErrors": ""
+    }
+}

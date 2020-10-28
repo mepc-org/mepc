@@ -1,0 +1,81 @@
++++
+# A Skills section created with the Featurette widget.
+widget = "featurette_welcome"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 20  # Order that this section will appear.
+
+title = "¿Cómo colaborar?"
+subtitle = "---"
+
+
+# Add/remove as many `[[feature]]` blocks below as you like.
+# 
+# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
+# Refer to https://axesslab.com/alt-texts/ for stellar examples of alt texts.
+
+[[feature]]
+  #icon = "slack"
+  #icon_pack = "fab"
+  img = "23.png"
+  imgalttext = ""
+  name = "Corré la voz"
+  description = "Una mejor educación es para todos. Ayudanos a correr la voz compartiendo MEPC a través de [Twitter](https://twitter.com/MEPC_oficial), [YouTube](https://www.youtube.com/channel/UCJpN1ANkID-67MQ2alMek-g), [Facebook](https://www.facebook.com/mepc.oficial/), [Instagram](https://www.instagram.com/mepc.oficial/) y otras redes sociales."
+  
+[[feature]]
+#  icon = "users"
+#  icon_pack = "fas"
+  img = "24.png"
+  imgalttext = ""
+  name = "Unite a nuestro equipo"
+  description = "Podés unirte a nuestros departamentos [enviándonos un mail](#contacto). También podés colaborar con el sitio web a través de  [GitHub](https://github.com/francosbenitez/mepc-website)."
+
+[[feature]]
+  # icon = "handshake"
+  # icon_pack = "fas"
+  # iconalttext = "Handshake"
+  img = "22.png"
+  imgalttext = ""
+  name = "Unite a nuestros grupos de estudio"
+  description = "Contamos con [ocho grupos de estudio](#grupos) sobre diferentes temas relacionados a la psicología científica. ¡Sumándote a ellos podremos compartir y aprender en conjunto!"
+
+[[feature]]
+#  icon = "scroll"
+#  icon_pack = "fas"
+#  iconalttext = "scroll"
+#  img = ""
+#  imgalttext = "Document. Illustration."
+#  name = "Learning about FORRT"
+#  description = "We recently released a [preprint](/manuscript) introducing FORRT. You can read it [on our site](/manuscript) or on [Open Science Framework](https://osf.io/bnh7p)."
+
+# [[feature]]
+#  icon = "slack"
+#  icon_pack = "fab"
+#  iconalttext = "Slack icon"
+#  img = ""
+#  imgalttext = "2 people discussing. Illustration."
+#  name = "Discuss"
+#  description = "We have also opened a Slack channel to keep everyone up-to-date and to provide a platform for ongoing discussions. [You can join us here.](https://join.slack.com/t/forrt/shared_invite/zt-alobr3z7-NOR0mTBfD1vKXn9qlOKqaQ)"
+
+# Call to action links (optional).
+#   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
+#   Remove a link/note by deleting a cta/note block.
+ [cta]
+   url = ""
+   label = ":rocket: Get involved now!"
+   # icon_pack = "fas"
+   # icon = "info"
+  
+# [cta_alt]
+#  url = "/about/get-involved/"
+#  label = "or view how you can help"
+
+# Note. An optional note to show underneath the links.
+# [cta_note]
+#   label = ''
+
+
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["60px", "0", "60px", "0"]
++++
