@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 5  # Order that this section will appear.
 
-title = "Departamento de redes sociales"
+title = "Departamento de revisores"
 subtitle = ""
 classtitle = ""
 
@@ -54,9 +54,11 @@ classtitle = ""
 +++
 
 ---
-Si conocés la dinámica de las redes, te gusta crear contenido y querés ayudar a difundir nuestras ideas de una manera adecuada, ¡estás invitadx a formar parte del equipo de redes sociales! Quienes se encargan de administrar las diferentes cuentas, aportar ideas y comunicarse con lxs seguidores.
+Si tenes conocimientos sobre un campo de la psicología en particular y sos un hábido lector, ¡podés ayudarnos a revisar el contenido de difusión! Así nos aseguramos de que el contenido sea lo más riguroso posible.
 
-Para colaborar en redes sociales podés hacerlo en Instagram, Twitter, Facebook y YouTube. Sólo hay que saber usar la dinámica interna de la red social, producir y subir contenido a las redes, adaptadas al formato. 
+Los revisores ven el contenido divulgativo producido y corrigen errores, dado que es científico, así nos aseguramos de entregar contenido de calidad.
+
+
 
 
 <br>

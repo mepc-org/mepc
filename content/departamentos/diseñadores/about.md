@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 5  # Order that this section will appear.
 
-title = "Departamento de redes sociales"
+title = "Departamento de diseño"
 subtitle = ""
 classtitle = ""
 
@@ -54,9 +54,15 @@ classtitle = ""
 +++
 
 ---
-Si conocés la dinámica de las redes, te gusta crear contenido y querés ayudar a difundir nuestras ideas de una manera adecuada, ¡estás invitadx a formar parte del equipo de redes sociales! Quienes se encargan de administrar las diferentes cuentas, aportar ideas y comunicarse con lxs seguidores.
+¿Queres ayudar para que seamos un proyecto bonito y estético?
+¿Tenes algún conocimiento básico de edición de imagen y/o video? Puede ser Canvas, Illustrator, Photoshop, Premiere, Filmora, etc.
+¿Tenés conocimientos sobre creación de páginas web?
 
-Para colaborar en redes sociales podés hacerlo en Instagram, Twitter, Facebook y YouTube. Sólo hay que saber usar la dinámica interna de la red social, producir y subir contenido a las redes, adaptadas al formato. 
+¡Sos bienvenidx al departamentos de diseño! Nos encargamos de producir el contenido audiovisual para difundir en todas las redes sociales. Queremos transmitir nuestras ideas de la manera más estética y atractiva posible, y la ayuda es siempre valorada!
+
+
+
+
 
 
 <br>
