@@ -54,7 +54,7 @@ subtitle = ""
 
 <div class="col-md-10">
 
-<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fmepc.oficial%2Fvideos%2F873092903431858%2F&show_text=true&width=560" width="560" height="460" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fmepc.oficial%2Fvideos%2F873092903431858%2F&show_text=true&width=560" width="560" height="460" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="false"></iframe>
 
 </div>
 

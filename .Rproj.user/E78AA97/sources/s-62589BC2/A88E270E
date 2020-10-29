@@ -1,24 +1,24 @@
 {
     "id": "A88E270E",
-    "path": "~/GitHub/mepc-website/content/home/facebook.md",
+    "path": "~/GitHub/mepc/content/home/facebook.md",
     "project_path": "content/home/facebook.md",
     "type": "markdown",
-    "hash": "0",
+    "hash": "1577059828",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1603968959550.0,
     "source_on_save": false,
     "relative_order": 4,
     "properties": {
-        "cursorPosition": "56,197",
+        "cursorPosition": "56,337",
         "scrollLine": "46"
     },
     "folds": "",
-    "lastKnownWriteTime": 1603970468,
+    "lastKnownWriteTime": 1603972683,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1603970502506,
+    "last_content_update": 1603972683425,
     "read_only": false,
     "read_only_alternatives": []
 }
