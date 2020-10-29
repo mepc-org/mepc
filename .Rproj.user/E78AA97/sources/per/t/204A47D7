@@ -1,24 +1,24 @@
 {
-    "id": "9D07F73A",
+    "id": "204A47D7",
     "path": "~/GitHub/mepc-website/content/home/como-colaborar.md",
     "project_path": "content/home/como-colaborar.md",
     "type": "markdown",
-    "hash": "184145054",
+    "hash": "3128066079",
     "contents": "",
     "dirty": false,
-    "created": 1603913672772.0,
+    "created": 1603976437831.0,
     "source_on_save": false,
-    "relative_order": 1,
+    "relative_order": 2,
     "properties": {
-        "cursorPosition": "36,14",
-        "scrollLine": "30"
+        "cursorPosition": "30,188",
+        "scrollLine": "23"
     },
     "folds": "",
-    "lastKnownWriteTime": 1603929739,
+    "lastKnownWriteTime": 1603976499,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1603929739445,
+    "last_content_update": 1603976499891,
     "read_only": false,
     "read_only_alternatives": []
 }
