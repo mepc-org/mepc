@@ -60,7 +60,7 @@ classtitle = ""
 
 ¡Sos bienvenidx al departamentos de diseño! Nos encargamos de producir el contenido audiovisual para difundir en todas las redes sociales. Queremos transmitir nuestras ideas de la manera más estética y atractiva posible, y la ayuda es siempre valorada!
 
-
+Si querés formar parte, enviá un correo a edicion.mepc@gmail.com
 
 
 

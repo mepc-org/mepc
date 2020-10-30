@@ -10,12 +10,12 @@
 
 [[main]]
   name = "¿Cómo colaborar?"
-  url = "#como-colaborar"
+  url = "/como-colaborar"
   weight = 20
 
 [[main]]
   name = "¿Qué estudiamos?"
-  url = "#grupos"
+  url = "/que-estudiamos"
   weight = 30
   
 # [[main]]
@@ -45,7 +45,7 @@
 
 # [[main]]
 #  name = "Contacto"
-#  url = "#contacto"
+#  url = "/contacto"
 #  weight = 60
   
 [[main]]
@@ -74,7 +74,7 @@
 
 [[main]]
   name = "Contacto"
-  url = "#contacto"
+  url = "/contacto"
   weight = 70
 
 # Link to a PDF of your resume/CV from the menu.

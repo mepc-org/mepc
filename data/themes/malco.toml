@@ -1,21 +1,20 @@
 # Theme metadata
-name = "mepc"
+name = "malco"
 
 # Is theme light or dark?
 light = true
 
 # Primary
 primary = "#004aad"
+primary_light = "#0072B2"
+primary_dark = "#474747" 
 
 # Menu
 menu_primary = "#fff"
-menu_text = "#34495e"
-menu_text_active = "#004aad"
-menu_title = "#69b3a2"
+menu_text = "#0072B2"
+menu_text_active = "#E7A000"
+menu_title = "#474747"
 
 # Home sections
 home_section_odd = "rgb(255, 255, 255)"
 home_section_even = "rgb(247, 247, 247)"
-
-link = "#004aad"
-link_hover = "#004aad"
