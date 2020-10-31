@@ -58,7 +58,7 @@ Si tenes conocimientos sobre un campo de la psicología en particular y sos un h
 
 Los revisores ven el contenido divulgativo producido y corrigen errores, dado que es científico, así nos aseguramos de entregar contenido de calidad.
 
-
+Si querés formar parte, [envianos un correo](/contacto).
 
 
 <br>

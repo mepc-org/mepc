@@ -24,7 +24,7 @@ role: Movimiento Estudiantil por la Psicología Científica
 social:
 - icon: envelope
   icon_pack: fas
-  link: /#contacto
+  link: /contacto
 - icon: facebook
   icon_pack: fab
   link: https://www.facebook.com/mepc.oficial/

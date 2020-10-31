@@ -58,6 +58,7 @@ Si conocés la dinámica de las redes, te gusta crear contenido y querés ayudar
 
 Para colaborar en redes sociales podés hacerlo en Instagram, Twitter, Facebook y YouTube. Sólo hay que saber usar la dinámica interna de la red social, producir y subir contenido a las redes, adaptadas al formato. 
 
+Si querés formar parte, [envianos un correo](/contacto).
 
 <br>
 <br>
