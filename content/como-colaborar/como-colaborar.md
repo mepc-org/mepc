@@ -20,7 +20,7 @@ subtitle = "---"
   img = "azul2.png"
   imgalttext = ""
   name = "Corré la voz"
-  description = "Una mejor educación es para todos. Ayudanos a correr la voz compartiendo MEPC a través de [Twitter](https://twitter.com/MEPC_oficial), [YouTube](https://www.youtube.com/channel/UCJpN1ANkID-67MQ2alMek-g), [Facebook](https://www.facebook.com/mepc.oficial/), [Instagram](https://www.instagram.com/mepc.oficial/) y otras redes sociales."
+  description = "Una mejor educación es para todos. Ayudanos a correr la voz siguiendo y compartiendo a MEPC en [Twitter](https://twitter.com/MEPC_oficial), [YouTube](https://www.youtube.com/channel/UCJpN1ANkID-67MQ2alMek-g), [Facebook](https://www.facebook.com/mepc.oficial/), [Instagram](https://www.instagram.com/mepc.oficial/) y otras redes sociales."
   
 [[feature]]
 #  icon = "users"
