@@ -79,11 +79,11 @@ Si la ciencia se preocupa por el cómo, la filosofía se preocupa por el qué. C
 
 En general, los ejes principales del grupo son:
 
--Filosofía de las ciencias
+- Filosofía de las ciencias
 
--Filosofía de la psicología
+- Filosofía de la psicología
 
--Filosofía de la mente
+- Filosofía de la mente
 
 Si te interesa, estás invitade a compartir con nosotros este espacio. Nos reunimos cada 15 días, los martes a las 16:00hs. Para más información, enviar un mail a mepc.filo@gmail.com
 

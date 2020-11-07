@@ -77,13 +77,13 @@ Buenas! somos el grupo de estudio de Clínica Basada en Evidencia de MEPC. Nos r
 El movimiento de las prácticas basadas en la evidencia, un enfoque ideológico y metodológico que promueve la utilización de la mejor y más reciente evidencia científica en la toma de decisiones clínicas. Esto supone aplicar tratamientos e intervenciones que hayan demostrado su eficacia en pruebas científicas y que permitan garantizar el ejercicio de la psicología como ciencia y el respeto por los derechos de lxs consultantes.
 Como grupo, nuestros objetivos son:
 
--Estudiar todas aquellas formas de evaluación, conceptualización, intervención y tratamiento cuya eficacia y utilidad clínica haya sido validada a través de la investigación científica. 
+- Estudiar todas aquellas formas de evaluación, conceptualización, intervención y tratamiento cuya eficacia y utilidad clínica haya sido validada a través de la investigación científica. 
 
--Formar redes y conocer personas con nuestros mismos intereses e inquietudes.
+- Formar redes y conocer personas con nuestros mismos intereses e inquietudes.
 
--Debatir y fomentar el pensamiento crítico.
+- Debatir y fomentar el pensamiento crítico.
 
--Socializar el conocimiento y construir experiencias conjuntas de aprendizaje.
+- Socializar el conocimiento y construir experiencias conjuntas de aprendizaje.
 
 No somos expertxs! Pero tenemos muchas ganas de aprender y contribuir al desarrollo y crecimiento de una práctica clínica con fundamentos científicos. 
 

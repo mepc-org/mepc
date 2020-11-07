@@ -80,13 +80,13 @@ Las reuniones se realizan los días viernes a las 20 hs. y son grabadas para per
 
 Objetivos del grupo:
 
-Hacer un recorrido desde los conceptos más básicos de las neurociencias hasta temáticas más complejas.
+- Hacer un recorrido desde los conceptos más básicos de las neurociencias hasta temáticas más complejas.
 
-Profundizar en los conceptos actuales de neurofisiología, neuroanatomía y neuropsicología.
+- Profundizar en los conceptos actuales de neurofisiología, neuroanatomía y neuropsicología.
 
-Estar actualizados respecto a las problemáticas actuales en el campo neurocientífico.
+- Estar actualizados respecto a las problemáticas actuales en el campo neurocientífico.
 
-Divulgación de información y cursos pertinentes a esta temática mediante grupo de Whatsapp.
+- Divulgación de información y cursos pertinentes a esta temática mediante grupo de Whatsapp.
 
 Si queres saber más o te interesa unirte no dudes en comunicarte a neuromepc@gmail.com 
 
