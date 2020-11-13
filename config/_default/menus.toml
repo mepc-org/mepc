@@ -19,17 +19,17 @@
   weight = 30
   identifier = "que-estudiamos"
   
-[[main]]
-  name = "Grupos de estudio"  # A link title for your page.
-  url = "/que-estudiamos/#grupos"  # The URL of your page.
-  weight = 31 # The position of your page in the menu.
-  parent = "que-estudiamos"
+# [[main]]
+#  name = "Grupos de estudio"  # A link title for your page.
+#  url = "/que-estudiamos/#grupos"  # The URL of your page.
+#  weight = 31 # The position of your page in the menu.
+#  parent = "que-estudiamos"
   
-[[main]]
- name = "Charlas recientes"  # A link title for your page.
-  url = "/que-estudiamos/#charlas"  # The URL of your page.
-  weight = 32 # The position of your page in the menu.
-  parent = "que-estudiamos"
+# [[main]]
+# name = "Charlas recientes"  # A link title for your page.
+#  url = "/que-estudiamos/#charlas"  # The URL of your page.
+#  weight = 32 # The position of your page in the menu.
+#  parent = "que-estudiamos"
   
   
 # [[main]]
