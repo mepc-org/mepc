@@ -114,13 +114,13 @@ email = "mepc.org@gmail.com"
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "Twitter", link = "https://twitter.com/MEPC_oficial"},
-  {icon = "facebook", icon_pack = "fab", name = "Facebook (página)", link = "https://www.facebook.com/mepc.oficial/"},
-  {icon = "facebook", icon_pack = "fab", name = "Facebook (grupo)", link = "https://www.facebook.com/groups/2641583789449049"},
-  {icon = "youtube", icon_pack = "fab", name = "YouTube", link = "https://www.youtube.com/channel/UCJpN1ANkID-67MQ2alMek-g"},
-  {icon = "instagram", icon_pack = "fab", name = "Instagram", link = "https://www.instagram.com/mepc.oficial/"},
-  {icon = "whatsapp", icon_pack = "fab", name = "WhatsApp (grupo 1)", link = "https://chat.whatsapp.com/LXTB9dRdP2z0d8meLKz1eg"},
-  {icon = "whatsapp", icon_pack = "fab", name = "WhatsApp (grupo 2)", link = "https://chat.whatsapp.com/LWqNQwz5UxhJIJwrArgJ3E"},
+#  {icon = "twitter", icon_pack = "fab", name = "Twitter", link = "https://twitter.com/MEPC_oficial"},
+#  {icon = "facebook", icon_pack = "fab", name = "Facebook (página)", link = "https://www.facebook.com/mepc.oficial/"},
+#  {icon = "facebook", icon_pack = "fab", name = "Facebook (grupo)", link = "https://www.facebook.com/groups/2641583789449049"},
+#  {icon = "youtube", icon_pack = "fab", name = "YouTube", link = "https://www.youtube.com/channel/UCJpN1ANkID-67MQ2alMek-g"},
+#  {icon = "instagram", icon_pack = "fab", name = "Instagram", link = "https://www.instagram.com/mepc.oficial/"},
+#  {icon = "whatsapp", icon_pack = "fab", name = "WhatsApp (grupo 1)", link = "https://chat.whatsapp.com/LXTB9dRdP2z0d8meLKz1eg"},
+#  {icon = "whatsapp", icon_pack = "fab", name = "WhatsApp (grupo 2)", link = "https://chat.whatsapp.com/LWqNQwz5UxhJIJwrArgJ3E"},
 #  {icon = "github", icon_pack = "fab", name = "GitHub", link = "https://github.com/francosbenitez/mepc-website"},
   ]
 

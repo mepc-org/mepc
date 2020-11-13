@@ -4,15 +4,15 @@
 widget: contact
 
 # Activate this widget? true/false
-active: true
+active: false
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 130
+weight: 80
 
-title: Contacto
+title: 
 subtitle: 
 
 # Automatically link email and phone or display as text?

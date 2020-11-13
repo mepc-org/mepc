@@ -1,9 +1,9 @@
 {
     "dialog-state": {
-        "query": "MEPC",
-        "path": "~/GitHub/mepc-website",
+        "query": "weibo",
+        "path": "~/GitHub/mepc",
         "regex": false,
-        "caseSensitive": true,
+        "caseSensitive": false,
         "filePatterns": [],
         "excludeFilePatterns": [],
         "resultsCount": 0,
