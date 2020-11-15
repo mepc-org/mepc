@@ -8500,7 +8500,7 @@ ul.share li:hover i {
   padding-top: 50px; }
 
 .home-section:nth-of-type(even) {
-  background-color: #f7f7f7; }
+  background-color: white; }
 
 .dark .home-section {
   background-color: #272935; }
