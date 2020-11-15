@@ -71,39 +71,21 @@
   identifier = "departamentos"
   
 [[main]]
-  name = "Facebook"  # A link title for your page.
-  url = "departamentos/facebook"  # The URL of your page.
+  name = "Divulgadores"  # A link title for your page.
+  url = "departamentos/divulgadores"  # The URL of your page.
   weight = 61 # The position of your page in the menu.
-  parent = "departamentos"
-  
-[[main]]
-  name = "Instagram"  # A link title for your page.
-  url = "departamentos/instagram"  # The URL of your page.
-  weight = 62 # The position of your page in the menu.
-  parent = "departamentos"
-  
-[[main]]
-  name = "Twitter"  # A link title for your page.
-  url = "departamentos/twitter"  # The URL of your page.
-  weight = 63 # The position of your page in the menu.
-  parent = "departamentos"
-  
-[[main]]
-  name = "YouTube"  # A link title for your page.
-  url = "departamentos/youtube"  # The URL of your page.
-  weight = 64 # The position of your page in the menu.
   parent = "departamentos"
   
 [[main]]
   name = "Revisores"  # A link title for your page.
   url = "/departamentos/revisores"  # The URL of your page.
-  weight = 65  # The position of your page in the menu.
+  weight = 62  # The position of your page in the menu.
   parent = "departamentos"
   
 [[main]]
   name = "Diseñadores"  # A link title for your page.
   url = "/departamentos/diseñadores"  # The URL of your page.
-  weight = 66  # The position of your page in the menu.
+  weight = 63  # The position of your page in the menu.
   parent = "departamentos"
 
 [[main]]
