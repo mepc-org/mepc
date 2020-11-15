@@ -79,7 +79,7 @@ subtitle = "---"
 <div class="tab-content" id="myTabContent">
   <div class="tab-pane fade show active" id="C1S1" role="tabpanel" aria-labelledby="C1S1-tab"><br>
 
-Es el departamento que se encarga de leer y/o ver el contenido que será subido a las diferentes redes sociales.
+Es el departamento que se encarga de leer el contenido que será subido a las diferentes redes sociales.
 
 <br>
 </div>

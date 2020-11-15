@@ -86,7 +86,7 @@ El grupo de personas encargadas del manejo de la cuenta de Twitter.
 Todo aquel que esté interesado en difundir, organizar y tomar decisiones en lo que respecta al contenido de la cuenta de Twitter del movimiento. Los requisitos:
 
 - Disponer del tiempo y el compromiso suficiente para contribuir al grupo y cumplir efectivamente el rol.
-- Tener conocimientos básicos respecto del funcionamiento de Twitter: uso tweets y trends, ht y videos cortos
+- Tener conocimientos básicos respecto del funcionamiento de Twitter: uso de tweets y trends, ht y videos cortos.
 - Ser proactivo, creativo y resolutivo. 
 
 <br>
@@ -94,7 +94,7 @@ Todo aquel que esté interesado en difundir, organizar y tomar decisiones en lo 
   <div class="tab-pane fade" id="C2S3" role="tabpanel" aria-labelledby="C2S3-tab"><br>
 
 - Subir las publicaciones recibidas desde revisión.
-- Publicar historias y hacer encuestas para obtener feedback y mantener activa la red social.
+- Publicar tweets, hilos, hacer encuestas para obtener feedback y mantener activa la red social.
 - Contestar mensajes relativos a consultas, propuestas, inquietudes, insultos, etc.
 
 <br>

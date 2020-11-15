@@ -96,7 +96,7 @@ Todo aquel que esté interesado en difundir, organizar y tomar decisiones en lo 
   <div class="tab-pane fade" id="C1S3" role="tabpanel" aria-labelledby="C1S3-tab"><br>
 
 - Subir las publicaciones recibidas desde revisión.
-- Publicar historias y hacer encuestas para obtener feedback y mantener activa la red social.
+- Hacer encuestas para obtener feedback y mantener activa la red social.
 - Contestar mensajes relativos a consultas, propuestas, inquietudes, insultos, etc. 
 
 <br>
