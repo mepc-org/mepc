@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 5  # Order that this section will appear.
 
-title = "Departamento de diseñadores"
+title = "Departamento de Facebook"
 subtitle = "---"
 
 [design]
@@ -79,32 +79,31 @@ subtitle = "---"
 <div class="tab-content" id="myTabContent">
   <div class="tab-pane fade show active" id="C1S1" role="tabpanel" aria-labelledby="C1S1-tab"><br>
 
-Es el grupo de personas encargadas de tomar decisiones en lo que respecta a la estética del movimiento.
+El grupo de personas encargadas del manejo de la página de Facebook.
 
 <br>
 </div>
   <div class="tab-pane fade" id="C1S2" role="tabpanel" aria-labelledby="C1S2-tab"><br>
 
-- Tienen la función de diseñar el aspecto visual de las publicaciones en las diferentes redes sociales. Esto implica:
-  - Diseñar logos para el MEPC y los grupos de estudio. 
-  - Diseñar y editar las imágenes que acompañan a las publicaciones.
-  - Editar videos y generar contenido.
-  - Pueden tener como base las ideas de otros y editarlas según lo acordado por el departamento. Ej: uso de color acorde al movimiento, imágenes y letras (formatos coherentes).
+Todo aquel que esté interesado en difundir, organizar y tomar decisiones en lo que respecta al contenido de la página de Facebook del movimiento. Los requisitos:
+
+- Disponer del tiempo y el compromiso suficiente para contribuir al grupo y cumplir efectivamente el rol.
+- Tener conocimientos básicos respecto del funcionamiento de Facebook page: uso de historias, publicaciones, formas de llegada a más gente, etc.
+- Ser proactivo, creativo y resolutivo. (Si no lo sos, tranqui, que arrancás con alguien que sabe un poco más y te va a ir acompañando en el manejo hasta que sepas hacerlo solo).
 
 <br>
 </div>
   <div class="tab-pane fade" id="C1S3" role="tabpanel" aria-labelledby="C1S3-tab"><br>
 
-- Saber usar diferentes aplicaciones de edición (Canva, etc.).
-- Conocer y respetar los estilos que se utilizan en las redes de MEPC.
-- Tener sentido estético.
-- Ser proactivo y aceptar críticas constructivas, la idea es que todes puedan opinar pero la decisión termina siendo del departamento.
+- Subir las publicaciones recibidas desde revisión.
+- Publicar historias y hacer encuestas para obtener feedback y mantener activa la red social.
+- Contestar mensajes relativos a consultas, propuestas, inquietudes, insultos, etc. 
 
 <br>
 </div>
   <div class="tab-pane fade" id="C1S4" role="tabpanel" aria-labelledby="C1S4-tab"><br>
 
-Enviando un mail a edicion.mepc@gmail.com.
+Enviando un mail a divulgacion.mepc@gmail.com.
 
 
 <br>
