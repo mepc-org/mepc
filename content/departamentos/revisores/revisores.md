@@ -94,7 +94,7 @@ Es el departamento que se encarga de leer y/o ver el contenido que será subido 
 </div>
   <div class="tab-pane fade" id="C1S3" role="tabpanel" aria-labelledby="C1S3-tab"><br>
 
-- Leer/ver el contenido que será subido a las redes.
+- Leer el contenido que será subido a las redes.
 - Comentar y/o corregir aquello que sea erróneo.
 - Sugerir agregar o quitar partes para mejorar el contenido.
 
