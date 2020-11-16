@@ -137,6 +137,21 @@
   translation: Tesis
 - id: pub_patent
   translation: Patente
+  
+- id: Reproducible_Analyses
+  translation: Reproducible Analyses
+
+- id: Open_Data_and_Materials
+  translation: Open Data and Materials
+
+- id: Reproducibility_and_Replicability_Knowledge
+  translation: Reproducibility and Replicability Knowledge
+
+- id: Replication_Research
+  translation: Replication Research
+
+- id: Conceptual_and_Statistical_Knowledge
+  translation: Conceptual and Statistical Knowledge
 
 # Project details
 
