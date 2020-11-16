@@ -93,8 +93,6 @@ subtitle = "---"
 
 En esta sección presentamos todos los recursos que consideramos que son importantes para una formación científica en psicología.
 
-<br>
-
 Si sabés de recursos que deban estar acá, llená [este formulario]().
 
 ***
