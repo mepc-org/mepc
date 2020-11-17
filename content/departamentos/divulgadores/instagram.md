@@ -8,8 +8,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Área de Instagram"
-subtitle = "---"
+title = ""
+subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -50,7 +50,9 @@ subtitle = "---"
  # CSS class.
  css_class = ""
 +++
+## Área de Instagram
 
+---
 
 
 
