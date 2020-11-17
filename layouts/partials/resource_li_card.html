@@ -33,7 +33,7 @@
       <div class="article-style">
         <p>{{ . }}</p>
         <p class="small mb-1"><strong>Autor(es):</strong> {{delimit $item.Params.Creators ", " }}</p>
-        <p class="small mb-1 pr-2"><strong>Tipo de recursos: </strong>{{delimit $item.Params.Material_Type ", " }}</p>
+        <p class="small mb-1 pr-2"><strong>Tipo de recurso: </strong>{{delimit $item.Params.Material_Type ", " }}</p>
         <p class="small mb-1 pr-2"><strong>Usuario(s) primarios: </strong>{{delimit $item.Params.Primary_User ", " }}</p>
         <p class="small mb-1 pr-2"><strong>Área(s) de disciplina: </strong>{{delimit $item.Params.Subject_Areas ", " }}</p>
         {{ with $item.Params.Tags }} <p class="small mb-1 pr-2 small"><strong>Etiqueta(s): </strong>{{delimit . ", " }}</p>{{end}}
