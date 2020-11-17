@@ -12,8 +12,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 70
 
-title: "Charlas recientes"
-subtitle: "---"
+title: ""
+subtitle: ""
 
 content:
   # Page type to display. E.g. post, talk, publication...
@@ -43,3 +43,8 @@ design:
   view: 4
 ---
 
+<div class="col-lg-12 text-center">
+<h2>Charlas recientes</h2>
+</div>
+
+<br>
