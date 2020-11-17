@@ -13,7 +13,7 @@ headless: true
 weight: 70
 
 title: "Charlas recientes"
-subtitle: ""
+subtitle: "---"
 
 content:
   # Page type to display. E.g. post, talk, publication...
