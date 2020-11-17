@@ -67,15 +67,15 @@ var searchFn = function () {
             }
         });
         if (results.length) {
-            var resultsMessage = results.length + " items found.";
+            var resultsMessage = results.length + " ítems encontrados.";
             if (results.length > limit) {
-                resultsMessage += " Showing first " + limit + " results.";
+                resultsMessage += " Mostrando primeros " + limit + " resultados.";
             }
             $("#results").html("<p>" + resultsMessage + "</p>");
             render(results);
         }
         else {
-            $("#results").html('<p>No items found.</p>');
+            $("#results").html('<p>Ningún ítem encontrado.</p>');
         }
     };
     var runSearch = function () {
@@ -88,14 +88,14 @@ var searchFn = function () {
         }
         lastTerm = term;
         if (term.length < minChars) {
-            $("#results").html('<p>No items found.</p>');
+            $("#results").html('<p>Ningún ítem encontrado.</p>');
             $("#btnGo").attr("disabled", true);
             return;
         }
         $("#btnGo").removeAttr("disabled");
         searching = true;
         var startSearch = new Date();
-        $("#results").html('<p>Processing search...</p>');
+        $("#results").html('<p>Procesando búsqueda...</p>');
         var terms = term.split(" ");
         var termsTree = [];
         for (var i = 0; i < terms.length; i += 1) {
@@ -117,7 +117,7 @@ var searchFn = function () {
         search(termsTree);
         searching = false;
         var endSearch = new Date();
-        $("#results").append("<p><small>Search took " + (endSearch - startSearch) + "ms.</small></p>");
+        $("#results").append("<p><small>La búsqueda tomó " + (endSearch - startSearch) + "ms.</small></p>");
     };
     var initSearch = function () {
         $("#searchBox").keyup(function () {
