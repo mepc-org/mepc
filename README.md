@@ -18,3 +18,7 @@ Para editarlo localmente, necesitarás:
 3. Si Hugo no está instalado, seguí los siguientes pasos en su documentación para instalarlo: https://gohugo.io/getting-started/installing/
 4. Para correr el sitio web localmente, asegurate que aún estás en MEPC/dir y tipeá hugo serve -D en tu terminal.
 - La opción -D es para servir el sitio web incluyendo draft .md files.
+
+## Agradecimientos
+
+Esta página web fue, principalmente, producto de la inspiración debida a dos organizaciones construidas con Hugo y blogdown: MetaDocencia (https://metadocencia.netlify.app/) y FORRT (https://forrt.org/).
