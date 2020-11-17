@@ -21,4 +21,4 @@ Para editarlo localmente, necesitarás:
 
 ## Agradecimientos
 
-Esta página web fue, principalmente, producto de la inspiración debida a dos organizaciones construidas con Hugo y blogdown: MetaDocencia (https://metadocencia.netlify.app/) y FORRT (https://forrt.org/).
+Esta página web fue, principalmente, producto de la inspiración debida a dos organizaciones construidas con Hugo y blogdown: [MetaDocencia](https://metadocencia.netlify.app/) y [FORRT](https://forrt.org/).
