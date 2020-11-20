@@ -2,6 +2,8 @@
 
 ## Sitio web de MEPC en GitHub
 
+[![Website Thumbnail](thumbnail.png)](http://mepc.netlify.app)
+
 Este es el sitio web para el Movimiento Estudiantil por la Psicología Científica (MEPC), construido con Hugo y hosteado con Netlify. Podés editarlo directamente en un navegador a través de GitHub (no recomendado) o tenés dos opciones para editar y ver lo que editas localmente antes de actualizar el master branch: 
 
 Si sos un usuario de R y te gusta trabajar con RStudio (la mejor opción para usuarios de Windows), necesitás:
@@ -25,4 +27,4 @@ Para editarlo localmente, necesitarás:
 
 Esta página web fue resultado de la inspiración producto de dos organizaciones construidas con Hugo y blogdown: [MetaDocencia](https://metadocencia.netlify.app/) y [FORRT](https://forrt.org/).
 
-[![Website Thumbnail](thumbnail.png)](http://mepc.netlify.app)
+
