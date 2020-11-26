@@ -43,10 +43,12 @@ C%3A%2FUsers%2FUsuario%2FDesktop%2Fmepc-website-master%2Fcontent%2Fhome%2Fportad
 ~%2FGitHub%2Fmepc%2Fcontent%2Fauthors%2Fneurociencias%2F_index.md="23C6BD06"
 ~%2FGitHub%2Fmepc%2Fcontent%2Fauthors%2Fpsicoeconomia%2F_index.md="205902EB"
 ~%2FGitHub%2Fmepc%2Fcontent%2Fcomo-colaborar%2Fcomo-colaborar.md="216EBEBF"
+~%2FGitHub%2Fmepc%2Fcontent%2Fcomo-colaborar%2Findex.md="6EC987CE"
 ~%2FGitHub%2Fmepc%2Fcontent%2Fcontacto%2F8-contact.md="8448772B"
 ~%2FGitHub%2Fmepc%2Fcontent%2Fcontacto%2Fcontacto-1.md="621A32B1"
 ~%2FGitHub%2Fmepc%2Fcontent%2Fcontacto%2Fcontacto-2.md="DB2F4322"
 ~%2FGitHub%2Fmepc%2Fcontent%2Fcontacto%2Fcontacto.md="95947A71"
+~%2FGitHub%2Fmepc%2Fcontent%2Fcontacto%2Findex.md="C16E6BDD"
 ~%2FGitHub%2Fmepc%2Fcontent%2Fcurated_resources%2F_index.md="CCA165B9"
 ~%2FGitHub%2Fmepc%2Fcontent%2Fcurated_resources%2Fbiblioteca-nt.md="20945FDD"
 ~%2FGitHub%2Fmepc%2Fcontent%2Fcurated_resources%2Fformacion-de-grado-en-psicologia-en-argentina.md="20D45809"
@@ -98,7 +100,11 @@ C%3A%2FUsers%2FUsuario%2FDesktop%2Fmepc-website-master%2Fcontent%2Fhome%2Fportad
 ~%2FGitHub%2Fmepc%2Fcontent%2Fdepartamentos%2Fyoutube.md="43C76399"
 ~%2FGitHub%2Fmepc%2Fcontent%2Fhome%2Fabout.md="6D1C96C8"
 ~%2FGitHub%2Fmepc%2Fcontent%2Fhome%2Fcomo-colaborar.md="55147282"
+<<<<<<< Updated upstream
 ~%2FGitHub%2Fmepc%2Fcontent%2Fhome%2Findex.md="76AB1137"
+=======
+~%2FGitHub%2Fmepc%2Fcontent%2Fhome%2Findex.md="3A6038BF"
+>>>>>>> Stashed changes
 ~%2FGitHub%2Fmepc%2Fcontent%2Fhome%2Fportada.md="AA60C0C0"
 ~%2FGitHub%2Fmepc%2Fcontent%2Fhome%2Fquienes-somos.md="69D7C265"
 ~%2FGitHub%2Fmepc%2Fcontent%2Fhome%2Fslider.md="8E00A186"
@@ -268,6 +274,7 @@ C%3A%2FUsers%2FUsuario%2FDesktop%2Fmepc-website-master%2Fcontent%2Fhome%2Fportad
 ~%2FGitHub%2Fmepc-website%2Fthemes%2Fstarter-academic%2Ftheme.toml="9477F8F2"
 ~%2FGitHub%2Fwebsite%2Fconfig%2F_default%2Fmenus.toml="F2955CE2"
 ~%2FGitHub%2Fwebsite%2Fconfig%2F_default%2Fparams.toml="01758C71"
+~%2FGitHub%2Fwebsite%2Fcontent%2Facerca%2Findex.md="85CE0C37"
 ~%2FGitHub%2Fwebsite%2Fcontent%2Fhome%2Fprojects.md="FEFF70D6"
 ~%2FGitHub%2Fwebsite%2Fcontent%2Fhome%2Ftwitter.md="F3349A4D"
 ~%2FGitHub%2Fwebsite%2Fthemes%2Fhugo-academic%2Flayouts%2Fpartials%2Fwidgets%2Ftwitter.html="AC64DB28"
