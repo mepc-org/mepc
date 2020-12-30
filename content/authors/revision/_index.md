@@ -1,61 +1,78 @@
-+++
-# A Demo section created with the Blank widget.
-# Any elements can be added in the body: https://sourcethemes.com/academic/docs/writing-markdown-latex/
-# Add more sections by duplicating this file and customizing to your requirements.
+---
+# Display name
+title: Revisión
 
-widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 5  # Order that this section will appear.
+# Username (this should match the folder name)
+authors:
+- revision
 
-title = "Departamento de diseñadores"
-subtitle = "---"
+# Is this the primary user of the site?
+superuser: false
 
-[design]
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+# Role/position
+# role: Metodología
 
-[design.background]
-  # Apply a background color, gradient, or image.
-  #   Uncomment (by removing `#`) an option to apply it.
-  #   Choose a light or dark text color by setting `text_color_light`.
-  #   Any HTML color name or Hex value is valid.
+# Organizations/Affiliations
+# organizations:
+# - name: Stanford University
+#  url: ""
 
-  # Background color.
-  # color = "red"
-  # color = "#cacfdc" # greenish
-  
-  # Background gradient.
-  # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
-  
-  # Background image.
-  # image = "headers/bubbles-wide.jpg"  # Name of image in `static/img/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-  # image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
-  # image_position = "center"  # Options include `left`, `center` (default), or `right`.
-  # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
+# Short bio (displayed in user profile at end of posts)
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-  # Text color (true=light or false=dark).
-  text_color_light = false
+# interests:
+# - Artificial Intelligence
+# - Computational Linguistics
+# - Information Retrieval
 
-[design.spacing]
-  # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["60px", "0", "60px", "0"]
+# education:
+#  courses:
+#  - course: PhD in Artificial Intelligence
+#    institution: Stanford University
+#    year: 2012
+#  - course: MEng in Artificial Intelligence
+#    institution: Massachusetts Institute of Technology
+#    year: 2009
+#  - course: BSc in Artificial Intelligence
+#    institution: Massachusetts Institute of Technology
+#    year: 2008
 
-[advanced]
- # Custom CSS. 
- css_style = "font-size: 1rem;"
- 
- # CSS class.
- css_class = ""
-+++
+# Social/Academic Networking
+# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+social:
+- icon: envelope
+  icon_pack: fas
+  link: "mailto:mepc.org@gmail.com"
+#social:
+# - icon: envelope
+#  icon_pack: fas
+#  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+# - icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
+# - icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+# - icon: github
+# icon_pack: fab
+#  link: https://github.com/gcushen
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: files/cv.pdf
 
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: ""
 
-
-
-
-
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
+user_groups:
+- Departamentos
+-
+---
 
 <ul class="nav nav-tabs" id="myTab" role="tablist">
   <li class="nav-item">
@@ -79,32 +96,31 @@ subtitle = "---"
 <div class="tab-content" id="myTabContent">
   <div class="tab-pane fade show active" id="C1S1" role="tabpanel" aria-labelledby="C1S1-tab"><br>
 
-Es el grupo de personas encargadas de tomar decisiones en lo que respecta a la estética del movimiento.
+Es el departamento que se encarga de leer el contenido que será subido a las diferentes redes sociales.
 
 <br>
 </div>
   <div class="tab-pane fade" id="C1S2" role="tabpanel" aria-labelledby="C1S2-tab"><br>
 
-- Tienen la función de diseñar el aspecto visual de las publicaciones en las diferentes redes sociales. Esto implica:
-  - Diseñar logos para el MEPC y los grupos de estudio. 
-  - Diseñar y editar las imágenes que acompañan a las publicaciones.
-  - Editar videos y generar contenido.
-  - Pueden tener como base las ideas de otros y editarlas según lo acordado por el departamento. Ej: uso de color acorde al movimiento, imágenes y letras (formatos coherentes).
+- Aquellos que tengan experiencia consumiendo divulgación.
+- Personas que tengan conocimientos más o menos abarcativos sobre diferentes áreas de la psicología y la filosofía.
+- Les que tengan tiempo para dedicar a la lectura crítica de material.
+- Gente proactiva, con buena comunicación y que desee  mejorar el contenido de redes.
 
 <br>
 </div>
   <div class="tab-pane fade" id="C1S3" role="tabpanel" aria-labelledby="C1S3-tab"><br>
 
-- Saber usar diferentes aplicaciones de edición (Canva, etc.).
-- Conocer y respetar los estilos que se utilizan en las redes de MEPC.
-- Tener sentido estético.
-- Ser proactivo y aceptar críticas constructivas, la idea es que todes puedan opinar pero la decisión termina siendo del departamento.
+- Leer el contenido que será subido a las redes.
+- Comentar y/o corregir aquello que sea erróneo.
+- Sugerir agregar o quitar partes para mejorar el contenido.
+
 
 <br>
 </div>
   <div class="tab-pane fade" id="C1S4" role="tabpanel" aria-labelledby="C1S4-tab"><br>
 
-Enviando un mail a edicion.mepc@gmail.com.
+Enviando un mail a mepc.org@gmail.com.
 
 
 <br>

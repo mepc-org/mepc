@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Twitter
+title: Diseño
 
 # Username (this should match the folder name)
 authors:
-- twitter
+- diseño
 
 # Is this the primary user of the site?
 superuser: false
@@ -44,10 +44,7 @@ superuser: false
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:divulgacion.mepc@gmail.com"
-- icon: twitter
-  icon_pack: fab
-  link: "https://twitter.com/MEPC_oficial"
+  link: "mailto:edicion.mepc@gmail.com"
 #social:
 # - icon: envelope
 #  icon_pack: fas
@@ -73,7 +70,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Áreas
+- Departamentos
 -
 ---
 
@@ -126,7 +123,7 @@ Todo aquel que esté interesado en difundir, organizar y tomar decisiones en lo 
 </div>
   <div class="tab-pane fade" id="C2S4" role="tabpanel" aria-labelledby="C2S4-tab"><br>
 
-Enviando un mail a divulgacion.mepc@gmail.com.
+Enviando un mail a edicion.mepc@gmail.com
 
 <br>
 </div>

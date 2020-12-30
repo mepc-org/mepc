@@ -7,13 +7,13 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1 # Order that this section will appear.
 
-title = "Departamento de divulgadores"
+title = "¿Cómo nos organizamos?"
 subtitle = ""
 
 [content]
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-  user_groups = ["Áreas"]
+  user_groups = ["Departamentos", "Áreas"]
   
 [design]
   # Show user's social networking links? (true/false)
@@ -52,6 +52,7 @@ subtitle = ""
 
 
 ---
-
+{{% callout note %}} Para saber más acerca de los departamentos y áreas, pulsá encima de ellos. <br>
+Si querés formar parte, sólo tenés que enviar un mail al departamento y/o área deseado. En breve te vamos a estar contactando. {{% /callout %}}
 
 

@@ -45,6 +45,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:divulgacion.mepc@gmail.com"
+- icon: facebook
+  icon_pack: fab
+  link: "https://www.facebook.com/mepc.oficial/"
 #social:
 # - icon: envelope
 #  icon_pack: fas

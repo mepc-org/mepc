@@ -52,7 +52,7 @@ subtitle = ""
 
 
 ---
-{{% alert info %}} Para saber más acerca de los grupos de estudio, pulsá encima de ellos. <br>
-Si querés participar, sólo tenés que enviar un mail al grupo deseado. En breve te vamos a estar contactando. {{% /alert %}}
+{{% callout note %}} Para saber más acerca de los grupos de estudio, pulsá encima de ellos. <br>
+Si querés participar, sólo tenés que enviar un mail al grupo deseado. En breve te vamos a estar contactando. {{% /callout %}}
 
 

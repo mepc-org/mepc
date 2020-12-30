@@ -1,7 +1,7 @@
 +++
 # MEPC page
-title = "¿Qué estudiamos?"
-summary = "¿Qué estudiamos?"
+title = "¿QUÉ ESTUDIAMOS?"
+summary = "¿QUÉ ESTUDIAMOS?"
 type = "widget_page"
 headless = false  # Homepage is headless, other widget pages are not.
 +++

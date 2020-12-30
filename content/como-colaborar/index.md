@@ -1,7 +1,7 @@
 +++
 # MEPC page
-title = "¿Cómo colaborar?"
-summary = "¿Cómo colaborar?"
+title = "¿CÓMO COLABORAR?"
+summary = "¿CÓMO COLABORAR?"
 type = "widget_page"
 headless = false  # Homepage is headless, other widget pages are not.
 +++

@@ -45,6 +45,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:divulgacion.mepc@gmail.com"
+- icon: youtube
+  icon_pack: fab
+  link: "https://www.youtube.com/channel/UCJpN1ANkID-67MQ2alMek-g"
 #social:
 # - icon: envelope
 #  icon_pack: fas

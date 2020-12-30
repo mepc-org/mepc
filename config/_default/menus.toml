@@ -65,28 +65,28 @@
 #  weight = 60
   
 [[main]]
-  name = "Departamentos"
-  url = "/departamentos"
+  name = "¿Cómo nos organizamos?"
+  url = "/como-nos-organizamos"
   weight = 60
-  identifier = "departamentos"
+#  identifier = "departamentos"
   
- [[main]]
-  name = "Divulgadores"  # A link title for your page.
-  url = "departamentos/divulgadores"  # The URL of your page.
-  weight = 61 # The position of your page in the menu.
-  parent = "departamentos"
+# [[main]]
+#  name = "Divulgadores"  # A link title for your page.
+#  url = "departamentos/divulgadores"  # The URL of your page.
+#  weight = 61 # The position of your page in the menu.
+#  parent = "departamentos"
   
- [[main]]
-  name = "Revisores"  # A link title for your page.
-  url = "/departamentos/revisores"  # The URL of your page.
-  weight = 62  # The position of your page in the menu.
-  parent = "departamentos"
+# [[main]]
+#  name = "Revisores"  # A link title for your page.
+#  url = "/departamentos/revisores"  # The URL of your page.
+#  weight = 62  # The position of your page in the menu.
+#  parent = "departamentos"
   
- [[main]]
-  name = "Diseñadores"  # A link title for your page.
-  url = "/departamentos/diseñadores"  # The URL of your page.
-  weight = 63  # The position of your page in the menu.
-  parent = "departamentos"
+# [[main]]
+#  name = "Diseñadores"  # A link title for your page.
+#  url = "/departamentos/diseñadores"  # The URL of your page.
+#  weight = 63  # The position of your page in the menu.
+#  parent = "departamentos"
   
 [[main]]
   name = "Recursos"

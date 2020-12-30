@@ -25,29 +25,29 @@ subtitle = "---"
     name = "Todos"
     FORRT_Clusters = "*"
 
-  [[content.filter_button]]
-    name = "Filosofía"
-    FORRT_Clusters = "Filosofía"
+#  [[content.filter_button]]
+#    name = "Filosofía"
+#    FORRT_Clusters = "Filosofía"
 
-  [[content.filter_button]]
-    name = "Metodología"
-    FORRT_Clusters = "Metodología"
+#  [[content.filter_button]]
+#    name = "Metodología"
+#    FORRT_Clusters = "Metodología"
 
   [[content.filter_button]]
     name = "Investigaciones académicas"
     FORRT_Clusters = "Investigaciones académicas"
   
-  [[content.filter_button]]
-    name = "Neurociencias"
-    FORRT_Clusters = "Neurociencias"
+#  [[content.filter_button]]
+#    name = "Neurociencias"
+#    FORRT_Clusters = "Neurociencias"
 
-  [[content.filter_button]]
-    name = "Pensamiento crítico"
-    FORRT_Clusters = "Pensamiento crítico"
+#  [[content.filter_button]]
+#    name = "Pensamiento crítico"
+#    FORRT_Clusters = "Pensamiento crítico"
     
-  [[content.filter_button]]
-    name = "Otros"
-    FORRT_Clusters = "Otros"
+#  [[content.filter_button]]
+#    name = "Otros"
+#    FORRT_Clusters = "Otros"
   
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
