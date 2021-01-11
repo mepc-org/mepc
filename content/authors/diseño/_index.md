@@ -98,26 +98,34 @@ user_groups:
 <div class="tab-content" id="myTabContent">
   <div class="tab-pane fade show active" id="C2S1" role="tabpanel" aria-labelledby="C2S1-tab"><br>
 
-El grupo de personas encargadas del manejo de la cuenta de Twitter.
+Es el grupo de personas encargadas de tomar decisiones en lo que respecta a la estética del movimiento.
+Este departamento se divide en dos áreas.
+- Diseño audiovisual: creación de contenido visual, gráfico, etc para las redes
+- Edición de escritos: específicamente la temática de escritura escritura.
+
 
 
 <br>
 </div>
   <div class="tab-pane fade" id="C2S2" role="tabpanel" aria-labelledby="C2S2-tab"><br>
 
-Todo aquel que esté interesado en difundir, organizar y tomar decisiones en lo que respecta al contenido de la cuenta de Twitter del movimiento. Los requisitos:
+Requisitos: 
+- Saber usar diferentes aplicaciones de edición (canva, etc)
+- Conocer y respetar los estilos que se utilizan en las redes de mepc
+- Tener sentido estético (neuroestética ejem ejem)
+- Ser proactivo y aceptar críticas constructivas, la idea es que todes pueden opinar pero la decisión termina siendo del departamento.
 
-- Disponer del tiempo y el compromiso suficiente para contribuir al grupo y cumplir efectivamente el rol.
-- Tener conocimientos básicos respecto del funcionamiento de Twitter: uso de tweets y trends, ht y videos cortos.
-- Ser proactivo, creativo y resolutivo. 
 
 <br>
 </div>
   <div class="tab-pane fade" id="C2S3" role="tabpanel" aria-labelledby="C2S3-tab"><br>
 
-- Subir las publicaciones recibidas desde revisión.
-- Publicar tweets, hilos, hacer encuestas para obtener feedback y mantener activa la red social.
-- Contestar mensajes relativos a consultas, propuestas, inquietudes, insultos, etc.
+Tienen la función de diseñar el aspecto visual de las publicaciones en las diferentes redes sociales. Esto implica:
+- Diseñar logos para el MEPC y los grupos de estudio 
+- Diseñar y editar las imágenes que acompañan a las publicaciones
+- Editar videos y generar contenido
+- Pueden tener como base las ideas de otros y editarlas según lo acordado por el departamento. Ej: uso de color acorde al movimiento, imágenes y letras (formatos coherentes). 
+
 
 <br>
 </div>
