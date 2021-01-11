@@ -51,7 +51,7 @@ hero_media = "logo_mepc2.png"
 #  label = ""
 +++
 
-Somos una organización independiente de estudiantes y graduados, que tenemos como fin promover el pensamiento crítico y la psicología científica, formarnos entre los integrantes en temas afines y reclamar por una formación actualizada, plural y científica
+Somos una organización independiente de estudiantes y graduados, que tenemos como fin promover el pensamiento crítico y la psicología científica, formarnos entre los integrantes en temas afines y reclamar por una formación actualizada, plural y científica.
 
 
 
