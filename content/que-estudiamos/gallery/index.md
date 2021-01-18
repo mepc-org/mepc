@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
-title = "**ESPACIO PUBLICITARIO**"
-subtitle = ""
+title = "**RED DE PSICOTERAPEUTAS**"
+subtitle = "*¿Querés iniciar terapia y no sabés por donde empezar a buscar?*"
 
 [design.background]
   # Apply a background color, gradient, or image.
