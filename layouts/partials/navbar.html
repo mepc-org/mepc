@@ -165,7 +165,9 @@
         </div>
       </li>
       {{ end }}
-
+      <li class="nav-item">
+        <a class="nav-link" href="{{ .Site.Params.gh_repo }}" alt="Link to MEPC's GitHub repository"><i class="fab fa-github" aria-hidden="true"></i></a>
+      </li>
       {{ if .IsTranslated }}
       <li class="nav-item dropdown i18n-dropdown">
         <a href="#" class="nav-link {{ if $show_current_language }}dropdown-toggle{{end}}" data-toggle="dropdown" aria-haspopup="true">

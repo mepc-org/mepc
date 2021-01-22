@@ -76,8 +76,8 @@ privacy_pack = false
 
 # Enable visitors to edit pages?
 #   `repo` defines the repository URL. `editable` defines which page types can be edited.
-edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir = "", repo_branch = "master", editable = {docs = true, page = false, post = false}}
-gh_repo = "https://github.com/francosbenitez/mepc-website"
+edit_page = {repo_url = "https://github.com/mepc-website/mepc", content_dir = "", repo_branch = "master", editable = {docs = true, page = false, post = false}}
+gh_repo = "https://github.com/mepc-website/mepc"
 
 # Show related content at the bottom of pages?
 show_related = {docs = true, page = false, post = true, project = true, publication = true, talk = true}
@@ -177,6 +177,10 @@ abstract_length = 135
 # Load JS plugins
 #   E.g. To load `/assets/js/custom.js`, set `plugins_js = ["custom"]`.
 plugins_js  = []
+
+# Breadcrumb navigation
+[breadcrumb]
+  page_types = {book = true}
 
 # Avatars.
 # An avatar is an image that appears next to a user's name.
