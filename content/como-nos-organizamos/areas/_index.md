@@ -14,4 +14,4 @@ toc: false
 ---
 
 ---
-Las Áreas corresponden al [Departamento de Divulgación](https://mepc.netlify.app/docs/departamentos/divulgacion/).
+Las Áreas corresponden al [Departamento de Divulgación](https://mepc.netlify.app/como-nos-organizamos/departamentos/divulgacion/).
