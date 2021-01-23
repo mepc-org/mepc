@@ -7,7 +7,7 @@ toc: true
 type: book
 weight: 7
 ---
-
+---
 ## **¿Qué es?**
 
 Es el departamento que se encarga de leer el contenido que será subido a las diferentes redes sociales.

@@ -7,7 +7,7 @@ toc: true
 type: book
 weight: 6
 ---
-
+---
 ## **¿Qué es?**
 
 El departamento de relaciones públicas se dedica específicamente a todo lo que esté relacionado con las demandas externas que tenga MEPC. Se encarga de ser el puente entre las necesidad de MEPC con los conocimientos de gente externa a MEPC. La idea del departamento es ser la cara visible. Ej. charlas, cursos, talleres, seminarios, etc
