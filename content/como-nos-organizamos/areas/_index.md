@@ -14,4 +14,4 @@ toc: false
 ---
 
 ---
-Las Áreas corresponden al [Departamento de Divulgación](http://localhost:1313/docs/departamentos/divulgacion/).
+Las Áreas corresponden al [Departamento de Divulgación](https://mepc.netlify.app/docs/departamentos/divulgacion/).

@@ -76,7 +76,7 @@ privacy_pack = false
 
 # Enable visitors to edit pages?
 #   `repo` defines the repository URL. `editable` defines which page types can be edited.
-edit_page = {repo_url = "https://github.com/mepc-website/mepc", content_dir = "", repo_branch = "master", editable = {docs = true, page = false, post = false}}
+edit_page = {repo_url = "https://github.com/mepc-website/mepc", content_dir = "", repo_branch = "master", editable = {book = true, docs = true, page = false, post = false}}
 gh_repo = "https://github.com/mepc-website/mepc"
 
 # Show related content at the bottom of pages?
