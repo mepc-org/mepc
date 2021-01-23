@@ -8,7 +8,11 @@ type: book
 weight: 1
 ---
 
+{{< figure library="true" src="12.png" title="" >}}
+
+
 ---
+
 ## **¿Qué es?**
 
 El grupo de personas encargadas del manejo de la página de Facebook.

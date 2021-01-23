@@ -8,7 +8,10 @@ type: book
 weight: 2
 ---
 
+{{< figure library="true" src="14.png" title="" >}}
+
 ---
+
 ## **¿Qué es?**
 
 El grupo de personas encargadas del manejo de la cuenta de Instagram.

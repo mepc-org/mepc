@@ -7,7 +7,11 @@ toc: true
 type: book
 weight: 7
 ---
+
+{{< figure library="true" src="11.png" title="" >}}
+
 ---
+
 ## **¿Qué es?**
 
 Es el departamento que se encarga de leer el contenido que será subido a las diferentes redes sociales.

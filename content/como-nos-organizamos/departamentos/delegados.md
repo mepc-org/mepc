@@ -8,8 +8,12 @@ type: book
 weight: 2
 ---
 
+{{< figure library="true" src="9.png" title="" >}}
 
 ---
+
+
+
 ## **¿Qué es?**
 
 El grupo de Delegades reúne a quienes cumplen dicho rol en cada uno de los grupos de estudio. Estará EXCLUSIVAMENTE compuesto por quienes sean los voceros de cada grupo, siendo éste un criterio excluyente. El grupo va a tener una composición variable, debido a que el puesto será rotativo.

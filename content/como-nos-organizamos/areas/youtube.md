@@ -5,10 +5,13 @@ linktitle: YouTube
 title: Área de YouTube
 toc: true
 type: book
-weight: 1
+weight: 4
 ---
 
+{{< figure library="true" src="15.png" title="" >}}
+
 ---
+
 ## **¿Qué es?**
 
 El grupo de personas encargadas del manejo del canal de YouTube.

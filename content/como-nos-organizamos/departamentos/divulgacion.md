@@ -7,7 +7,13 @@ toc: true
 type: book
 weight: 4
 ---
+
+
+{{< figure library="true" src="20.png" title="" >}}
+
+
 ---
+
 ## **¿Qué es?**
 
 Es el grupo en el que convergen representantes de cada uno de los departamentos de redes sociales.

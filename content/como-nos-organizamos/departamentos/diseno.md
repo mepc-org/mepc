@@ -8,7 +8,10 @@ type: book
 weight: 3
 ---
 
+{{< figure library="true" src="10.png" title="" >}}
+
 ---
+
 ## **¿Qué es?**
 
 Es el grupo de personas encargadas de tomar decisiones en lo que respecta a la estética del movimiento. Este departamento se divide en dos áreas.

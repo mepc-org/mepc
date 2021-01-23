@@ -7,7 +7,11 @@ toc: true
 type: book
 weight: 5
 ---
+
+{{< figure library="true" src="18.png" title="" >}}
+
 ---
+
 ## **¿Qué es?**
 
 El departamento de Recursos Humanos, se dedica exclusivamente a todo lo relacionado con gestión de personal. Determina las necesidades relacionadas con los recursos humanos de MEPC, incluyendo la demanda de personas predispuestas a ayudar activamente en los grupos y actividades formativas de dichos ingresantes. Somos el nexo entre aquello que necesitas organizar y no sabes cómo, o las personas que necesitas contactar y no sabes de qué manera.
