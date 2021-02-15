@@ -15,7 +15,6 @@ Lo que tenés que hacer es lo siguiente:
 
 ## Créditos
 ```
-Otros sitios web de organizaciones construidas con Hugo y Wowchemy: 
-    MetaDocencia (https://metadocencia.netlify.app/).
-    Forrt (https://forrt.org/).
+MetaDocencia (https://metadocencia.netlify.app/).
+Forrt (https://forrt.org/).
 ```
