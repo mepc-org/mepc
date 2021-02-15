@@ -65,8 +65,8 @@
 #  weight = 60
   
 [[main]]
-  name = "¿Cómo nos organizamos?"
-  url = "/como-nos-organizamos"
+  name = "Documentos"
+  url = "/documentos"
   weight = 60
 #  identifier = "departamentos"
   
