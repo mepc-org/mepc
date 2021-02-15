@@ -10,6 +10,6 @@ icon_pack: fas
 
 {{% callout warning %}} Este sección no está del todo terminada. Léanla teniendo en cuenta esto. {{% /callout %}}
 
-[1. Departamentos](https://mepc.netlify.app/documentos/departamentos/).
+- [Departamentos](https://mepc.netlify.app/documentos/departamentos/).
 
-[2. Áreas](https://mepc.netlify.app/documentos/areas)
+- [Áreas](https://mepc.netlify.app/documentos/areas).
