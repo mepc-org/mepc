@@ -55,7 +55,7 @@ iconalttext = ""
 img = ""
 imgalttext = "2 people discussing. Illustration."
 name = "Unite a nuestro grupo de Facebook"
-description = "Contamos con un [grupo de Facebook](https://www.facebook.com/groups/2641583789449049) con más de 2000 miembros para mantenernos actualizados sobre novedades en psicología científica."
+description = "Contamos con un [grupo de Facebook](https://www.facebook.com/groups/2641583789449049) con más de 3000 miembros para mantenernos actualizados sobre novedades en psicología científica."
 
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
