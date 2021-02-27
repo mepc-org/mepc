@@ -1,4 +1,32 @@
-    p.btn.btn-sm.btn-outline-primary.mb-1.pr-2.d-flex:hover {
+/* navbar */
+.nav-item .nav-link {
+    display: inline;
+    position: relative;
+    overflow: hidden;
+  }
+.nav-item .nav-link:after {
+    content: "";
+    position: absolute;
+    z-index: -1;
+    right: 0;
+    width: 0;
+    bottom: -5px;
+    background: #004aad;
+    height: 4px;
+    transition-property: width;
+    transition-duration: 0.3s;
+    transition-timing-function: ease-out;
+}
+.nav-item .nav-link:hover:after,
+.nav-item .nav-link:focus:after,
+.nav-item .nav-link:active:after {
+    left: 0;
+    right: auto;
+    width: 100%;
+}
+ 
+ /* fix resources */
+ p.btn.btn-sm.btn-outline-primary.mb-1.pr-2.d-flex:hover {
     color: rgb(255, 255, 255);
     }
 
