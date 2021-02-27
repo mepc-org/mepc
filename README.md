@@ -12,3 +12,9 @@ Lo que tenés que hacer es lo siguiente:
 3. Clonar este repositorio yendo a "Source Control", luego "Clone repository" y copiando y pegando la URL. 
 4. Instalar Hugo Extended y sus prerequisitos, siguiendo las [instrucciones acá](https://wowchemy.com/docs/install-locally/#prerequisites) (depende de tu sistema operativo).
 5. Finalmente, tipeá el comando ```hugo server``` en la terminal.
+
+## Créditos
+```
+MetaDocencia (https://metadocencia.netlify.app/).
+Forrt (https://forrt.org/).
+```
