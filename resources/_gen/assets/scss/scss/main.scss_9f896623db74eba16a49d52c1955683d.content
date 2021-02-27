@@ -9242,6 +9242,9 @@ div.mermaid {
 html[dir="rtl"] body {
   text-align: right; }
 
+p.btn.btn-sm.btn-outline-primary.mb-1.pr-2.d-flex:hover, .btn-group-sm > .btn.btn-outline-primary.mb-1.pr-2.d-flex:hover {
+  color: white; }
+
 /* about */
 #about .network-icon {
   position: relative;
