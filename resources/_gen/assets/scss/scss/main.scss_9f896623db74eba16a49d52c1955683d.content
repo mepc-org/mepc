@@ -7147,7 +7147,7 @@ a.text-dark:hover, a.text-dark:focus {
  *  Academic's Core
  **************************************************/
 html {
-  font-family: "Roboto", sans-serif;
+  font-family: "Karla", sans-serif;
   font-size: 13.86px;
   color: rgba(0, 0, 0, 0.8);
   line-height: 1.65; }
@@ -7207,14 +7207,14 @@ ul.task-list li input[type="checkbox"] {
 
 /* Navigation bar text */
 .navbar-light {
-  font-family: "Roboto", sans-serif;
+  font-family: "IBM Plex Sans", sans-serif;
   font-weight: 400;
   line-height: 1.25;
   text-rendering: optimizeLegibility; }
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Montserrat", sans-serif;
+  font-family: "IBM Plex Sans", sans-serif;
   font-weight: 400;
   margin-top: 1rem;
   margin-bottom: .5rem;
@@ -9241,3 +9241,30 @@ div.mermaid {
  **************************************************/
 html[dir="rtl"] body {
   text-align: right; }
+
+/* about */
+#about .network-icon {
+  position: relative;
+  bottom: 25px; }
+
+/* que-estudiamos */
+#grupos .avatar-circle {
+  -webkit-box-shadow: 3px 3px 5px 6px #ccc;
+  -moz-box-shadow: 3px 3px 5px 6px #ccc;
+  box-shadow: 3px 6px 2px 0px #ccc; }
+
+#grupos .avatar-circle:hover {
+  opacity: 0.5; }
+
+/* hero */
+#quienes-somos .hero-title, #quienes-somos .hero-lead, #quienes-somos .col-6.mx-auto.col-md-6.order-md-2 {
+  opacity: 0;
+  position: relative;
+  left: 0px;
+  -webkit-animation: slide-right 2.5s cubic-bezier(0.87, 0, 0.13, 1) forwards;
+  animation: slide-right 2.5s cubic-bezier(0.87, 0, 0.13, 1) forwards; }
+
+@-webkit-keyframes slide-right {
+  100% {
+    left: 0;
+    opacity: 1; } }
