@@ -1,5 +1,5 @@
 # Font style metadata
-name = "malco"
+name = "mepc"
 
 # Optional Google font URL
 google_fonts = ""
@@ -10,6 +10,3 @@ body_font = "Montserrat"
 nav_font = "Montserrat"
 mono_font = "Montserrat"
 
-# Font size
-font_size = "20"
-font_size_small = "16"
