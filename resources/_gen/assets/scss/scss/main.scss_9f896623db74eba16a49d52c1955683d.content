@@ -9279,9 +9279,12 @@ p.btn.btn-sm.btn-outline-primary.mb-1.pr-2.d-flex:hover, .btn-group-sm > .btn.bt
 
 /* que-estudiamos */
 #grupos .avatar-circle {
-  -webkit-box-shadow: 3px 3px 5px 6px #ccc;
-  -moz-box-shadow: 3px 3px 5px 6px #ccc;
-  box-shadow: 3px 6px 2px 0px #ccc; }
+  background-image: -webkit-linear-gradient(top, #f4f1ee, #fff);
+  background-image: linear-gradient(top, #f4f1ee, #fff);
+  border-radius: 50%;
+  box-shadow: 0px 8px 10px 0px rgba(0, 0, 0, 0.3), inset 0px 4px 1px 1px white, inset 0px -3px 1px 1px rgba(204, 198, 197, 0.5);
+  -webkit-transition: all .1s linear;
+  transition: all .1s linear; }
 
 #grupos .avatar-circle:hover {
   opacity: 0.5; }
