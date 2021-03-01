@@ -28,7 +28,7 @@ subtitle = "---"
   img = "azul3.png"
   imgalttext = ""
   name = "Unite a nuestro equipo"
-  description = "Podés unirte a nuestros departamentos [enviándonos un mail](/contacto). También podés colaborar con el sitio web a través de  [GitHub](https://github.com/mepc-website/mepc)."
+  description = "Podés unirte a [nuestros departamentos](/documentos/departamentos) [enviándonos un mail](/contacto). También podés colaborar con el sitio web a través de  [GitHub](https://github.com/mepc-website/mepc)."
 
 [[feature]]
   # icon = "handshake"

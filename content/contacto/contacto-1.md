@@ -34,14 +34,14 @@ subtitle = "---"
   icon_pack = "fab"
   # img = "teamwork.png"
   name = "Facebook"
-  description = "[Página oficial](https://www.facebook.com/mepc.oficial/)"
+  description = "[Página oficial](https://www.facebook.com/mepc.oficial/) <br> [Grupo oficial](https://www.facebook.com/groups/2641583789449049)"
 
-[[feature]]
-  icon = "facebook"
-  icon_pack = "fab"
+# [[feature]]
+#  icon = "facebook"
+#  icon_pack = "fab"
   # img = "teamwork.png"
-  name = "Facebook"
-  description = "[Grupo oficial](https://www.facebook.com/groups/2641583789449049)" 
+#  name = "Facebook"
+#  description = "[Grupo oficial](https://www.facebook.com/groups/2641583789449049)" 
   
 [[feature]]
   icon = "youtube"
@@ -55,14 +55,14 @@ subtitle = "---"
   icon_pack = "fab"
   # img = "teamwork.png"
   name = "WhatsApp"
-  description = "[Grupo oficial 1](https://chat.whatsapp.com/LXTB9dRdP2z0d8meLKz1eg)"
+  description = "[Grupo oficial 1](https://chat.whatsapp.com/LXTB9dRdP2z0d8meLKz1eg) <br> [Grupo oficial 2](https://chat.whatsapp.com/LWqNQwz5UxhJIJwrArgJ3E)"
   
-[[feature]]
-  icon = "whatsapp"
-  icon_pack = "fab"
+# [[feature]]
+#  icon = "whatsapp"
+#  icon_pack = "fab"
   # img = "teamwork.png"
-  name = "WhatsApp"
-  description = "[Grupo oficial 2](https://chat.whatsapp.com/LWqNQwz5UxhJIJwrArgJ3E)"
+#  name = "WhatsApp"
+#  description = "[Grupo oficial 2](https://chat.whatsapp.com/LWqNQwz5UxhJIJwrArgJ3E)"
   
 # [[feature]]
 #   icon = "github"

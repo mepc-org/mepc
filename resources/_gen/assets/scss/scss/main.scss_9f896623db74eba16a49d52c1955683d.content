@@ -9278,6 +9278,15 @@ p.btn.btn-sm.btn-outline-primary.mb-1.pr-2.d-flex:hover, .btn-group-sm > .btn.bt
   bottom: 25px; }
 
 /* que-estudiamos */
+#profile-page
+.network-icon {
+  position: relative;
+  bottom: 25px; }
+
+#grupos .portrait-title .network-icon {
+  position: relative;
+  bottom: 10px; }
+
 #grupos .avatar-circle {
   background-image: -webkit-linear-gradient(top, #f4f1ee, #fff);
   background-image: linear-gradient(top, #f4f1ee, #fff);
@@ -9313,11 +9322,11 @@ p.btn.btn-sm.btn-outline-primary.mb-1.pr-2.d-flex:hover, .btn-group-sm > .btn.bt
 #quienes-somos .hero-title, #quienes-somos .hero-lead, #quienes-somos .col-6.mx-auto.col-md-6.order-md-2 {
   opacity: 0;
   position: relative;
-  left: 0px;
-  -webkit-animation: slide-right 2.5s cubic-bezier(0.87, 0, 0.13, 1) forwards;
-  animation: slide-right 2.5s cubic-bezier(0.87, 0, 0.13, 1) forwards; }
+  bottom: 1000px;
+  -webkit-animation: slide-bottom 2.5s cubic-bezier(0.87, 0, 0.13, 1) forwards;
+  animation: slide-bottom 2.5s forwards cubic-bezier(0.87, 0, 0.13, 1) forwards; }
 
-@-webkit-keyframes slide-right {
+@keyframes slide-bottom {
   100% {
-    left: 0;
+    bottom: 0;
     opacity: 1; } }

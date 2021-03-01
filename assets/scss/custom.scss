@@ -39,7 +39,17 @@
 }
 
 /* que-estudiamos */
+#profile-page
+    .network-icon {
+        position: relative;
+        bottom: 25px;
+}
+
 #grupos {
+    .portrait-title .network-icon {
+        position: relative;
+        bottom: 10px;
+    }
     .avatar-circle {
         background-image: -webkit-linear-gradient(top, #f4f1ee, #fff);
         background-image: linear-gradient(top, #f4f1ee, #fff);
@@ -62,13 +72,11 @@
     .avatar-circle:hover {
         opacity: 0.7;
     }
-
     .avatar-circle:active{
         background-image: -webkit-linear-gradient(top, #efedec, #f7f4f4);
         background-image: linear-gradient(top, #efedec, #f7f4f4);
         box-shadow: 0 3px 5px 0 rgba(0,0,0,.4), inset 0px -3px 1px 1px rgba(204,198,197,.5);
     }
-
     .avatar-circle:active:after{
         color:#dbd2d2;
         text-shadow: 0px -1px 1px #bdb5b4, 0px 1px 1px white;
@@ -80,11 +88,11 @@
     .hero-title, .hero-lead, .col-6.mx-auto.col-md-6.order-md-2 {
         opacity: 0;
         position: relative;
-        left: 0px;
-        -webkit-animation: slide-right 2.5s cubic-bezier(0.87, 0, 0.13, 1) forwards;
-        animation: slide-right 2.5s cubic-bezier(0.87, 0, 0.13, 1) forwards;
-    }
-    @-webkit-keyframes slide-right {
-        100% {left: 0; opacity: 1}
-    }
+        bottom: 1000px;
+        -webkit-animation: slide-bottom 2.5s cubic-bezier(0.87, 0, 0.13, 1) forwards;
+        animation: slide-bottom 2.5s forwards cubic-bezier(0.87, 0, 0.13, 1) forwards;
+  }
+    @keyframes slide-bottom {
+        100% { bottom: 0; opacity: 1; }
+  }
 }
