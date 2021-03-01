@@ -2,7 +2,7 @@
 name = "mepc"
 
 # Optional Google font URL
-google_fonts = ""
+google_fonts = "Montserrat:400,700"
 
 # Font families
 heading_font = "Montserrat"
