@@ -9286,8 +9286,28 @@ p.btn.btn-sm.btn-outline-primary.mb-1.pr-2.d-flex:hover, .btn-group-sm > .btn.bt
   -webkit-transition: all .1s linear;
   transition: all .1s linear; }
 
+#grupos .avatar-circle:after {
+  color: #e9e6e4;
+  content: "";
+  display: block;
+  font-size: 30px;
+  height: 30px;
+  text-decoration: none;
+  text-shadow: 0px -1px 1px #bdb5b4, 1px 1px 1px white;
+  position: absolute;
+  width: 30px; }
+
 #grupos .avatar-circle:hover {
-  opacity: 0.5; }
+  opacity: 0.7; }
+
+#grupos .avatar-circle:active {
+  background-image: -webkit-linear-gradient(top, #efedec, #f7f4f4);
+  background-image: linear-gradient(top, #efedec, #f7f4f4);
+  box-shadow: 0 3px 5px 0 rgba(0, 0, 0, 0.4), inset 0px -3px 1px 1px rgba(204, 198, 197, 0.5); }
+
+#grupos .avatar-circle:active:after {
+  color: #dbd2d2;
+  text-shadow: 0px -1px 1px #bdb5b4, 0px 1px 1px white; }
 
 /* hero */
 #quienes-somos .hero-title, #quienes-somos .hero-lead, #quienes-somos .col-6.mx-auto.col-md-6.order-md-2 {
