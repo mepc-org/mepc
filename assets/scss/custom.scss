@@ -93,6 +93,9 @@
         animation: slide-bottom 2.5s forwards cubic-bezier(0.87, 0, 0.13, 1) forwards;
   }
     @keyframes slide-bottom {
-        100% { bottom: 0; opacity: 1; }
+        100% { 
+            bottom: 0; 
+            opacity: 1; 
+        }
   }
 }
