@@ -13,8 +13,16 @@ Lo que tenés que hacer es lo siguiente:
 4. Instalar Hugo Extended y sus prerequisitos, siguiendo las [instrucciones acá](https://wowchemy.com/docs/install-locally/#prerequisites) (depende de tu sistema operativo).
 5. Finalmente, tipeá el comando ```hugo server``` en la terminal.
 
+Una vez que pudiste correr la página localmente, podrás contribuir de varias maneras a efectivizar cambios en la misma. Por ejemplo:
+1) Escribiendo código.
+2) Mejorando la documentación.
+3) Reportando errores.
+
+En los casos 1) y 2), lo que necesitás hacer es [crear un pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request), mientras que, en el caso 3), lo que necesitás hacer es [dirigirte a issues](https://github.com/mepc-website/mepc/issues/) y reportar de la manera más detallada posible.
+
 ## Créditos
 ```
 MetaDocencia (https://metadocencia.netlify.app/).
 Forrt (https://forrt.org/).
+
 ```
