@@ -15,11 +15,11 @@ Lo que tenés que hacer es lo siguiente:
 
 Una vez que pudiste correr la página localmente, podrás contribuir de varias maneras a efectivizar cambios en la misma. Por ejemplo:
 
-a) Escribiendo código.
-b) Mejorando la documentación.
-c) Reportando errores.
+1) Escribiendo código.
+2) Mejorando la documentación.
+3) Reportando errores.
 
-En los casos a) y b), lo que necesitás hacer es [crear un pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request). En el caso c), lo que necesitás hacer es [dirigirte a issues](https://github.com/mepc-website/mepc/issues/) y reportar de la manera más detallada posible.
+En los casos 1) y 2), lo que necesitás hacer es [crear un pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request). En el caso 3), lo que necesitás hacer es [dirigirte a issues](https://github.com/mepc-website/mepc/issues/) y reportar de la manera más detallada posible.
 
 ## Créditos
 ```
